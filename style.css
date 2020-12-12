@@ -1,0 +1,55 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-image: linear-gradient(to right, pink , yellow);
+}
+
+.note
+{
+    font-size: 17px;
+    color: darkred;
+}
+
+.div_speed
+{
+    float: left;
+}
+
+.div_speed_img, .div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#speed, #volume
+{
+    font-size: 23px;
+    margin: 15px;
+    background-image: linear-gradient(yellow,red);
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.play_button, .stop_button
+{
+   font-size: 25px;
+   width: 130px;
+   background-image: linear-gradient(yellow,black);
+}
+
+canvas
+{
+    border:5px solid beige;
+   
+    border-radius: 300px;
+}
